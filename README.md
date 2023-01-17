@@ -1,6 +1,6 @@
 # now here is something fun
 
-Read  full article on medium
+>## [Read  full article on medium](https://medium.com/@warithadetayo.awa/now-here-is-something-fun-346ac202e5f0)
 
 ```py
 >>> def sum_digits(num):
